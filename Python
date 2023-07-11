@@ -1,0 +1,7 @@
+OPERADORES ARITIMÉtICOS
+
+Ordem de precedência
+1 -> () Parêntese
+2 -> ** Potenciação
+3 -> * > Multiplicação, / > Divisão, // > Divisão inteira, % > Resto da divisão
+4 -> + > Adição, - > Subtração

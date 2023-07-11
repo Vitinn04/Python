@@ -1,0 +1,5 @@
+cid = str(input('Digite o nome da sua cidade: '))
+cid = cid.upper()
+dividido = cid.split()
+print(dividido)
+print('SANTO' in dividido[0])
